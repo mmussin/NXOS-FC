@@ -111,7 +111,7 @@ GigabitEthernet0/2 is administratively down, line protocol is down
      0 output buffer failures, 0 output buffers swapped out
 Loopback0 is up, line protocol is up 
   Hardware is Loopback
-  Description: OSPF 201 loopback
+  Description: OSPF
   Internet address is 10.10.201.1/32
   MTU 1514 bytes, BW 8000000 Kbit/sec, DLY 5000 usec, 
      reliability 255/255, txload 1/255, rxload 1/255
@@ -134,7 +134,7 @@ Loopback0 is up, line protocol is up
      0 output buffer failures, 0 output buffers swapped out
 Loopback1 is up, line protocol is up 
   Hardware is Loopback
-  Description: Used for GRE Tunnels to Field Sites
+  Description: RS
   Internet address is 10.10.221.1/25
   MTU 1514 bytes, BW 8000000 Kbit/sec, DLY 5000 usec, 
      reliability 255/255, txload 1/255, rxload 1/255
@@ -157,7 +157,7 @@ Loopback1 is up, line protocol is up
      0 output buffer failures, 0 output buffers swapped out
 Tunnel1 is up, line protocol is up 
   Hardware is Tunnel
-  Description: Acheson
+  Description: RSt1
   Internet address is 10.1.1.1/30
   MTU 17916 bytes, BW 10000 Kbit/sec, DLY 500000 usec, 
      reliability 255/255, txload 255/255, rxload 6/255
@@ -188,7 +188,7 @@ Tunnel1 is up, line protocol is up
      0 output buffer failures, 0 output buffers swapped out
 Tunnel3 is up, line protocol is up 
   Hardware is Tunnel
-  Description: Athabasca
+  Description: RSt3
   Internet address is 10.1.3.1/30
   MTU 17916 bytes, BW 1500 Kbit/sec, DLY 50000 usec, 
      reliability 255/255, txload 255/255, rxload 2/255
@@ -219,7 +219,7 @@ Tunnel3 is up, line protocol is up
      0 output buffer failures, 0 output buffers swapped out
 Tunnel4 is up, line protocol is up 
   Hardware is Tunnel
-  Description: Chestermere
+  Description: RSt4
   Internet address is 10.1.4.1/30
   MTU 17916 bytes, BW 1500 Kbit/sec, DLY 500000 usec, 
      reliability 255/255, txload 255/255, rxload 1/255
@@ -250,7 +250,7 @@ Tunnel4 is up, line protocol is up
      0 output buffer failures, 0 output buffers swapped out
 Tunnel5 is up, line protocol is up 
   Hardware is Tunnel
-  Description: Bow Island
+  Description: RSt5
   Internet address is 10.1.5.1/30
   MTU 17916 bytes, BW 1500 Kbit/sec, DLY 50000 usec, 
      reliability 255/255, txload 255/255, rxload 1/255
