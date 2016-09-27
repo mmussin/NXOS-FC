@@ -6,5 +6,5 @@ cli usage:
 
 cisco_sh_int.py filter filename
 
-filter – Lines that matches. Essentially this is Regular Expression that you have after ‘show interfaces | include ’
+filter – Lines that matches. Essentially this is Regular Expression that you have after ‘show interfaces | include
 filename – Filename with output of ‘Show interfaces’
